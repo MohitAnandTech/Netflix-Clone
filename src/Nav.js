@@ -19,7 +19,7 @@ const [show, handleShow] = useState(false);
         <div className={`nav ${show && "nav__black"}`}>
          <img
          className="nav__logo"
-         src="https://lh3.googleusercontent.com/proxy/DvdnRE_PbJnO0RmjICFhaZ8a7k1vWVbsmNNpuudF9-5B2trTk0673K1Dfvj5f8FfuK8WBI0AKeCw9t-l8467v7P2ewPlEk16wDQzMsq65ybJhfXhRmM" 
+         src="https://assets.brand.microsites.netflix.io/assets/df87ee0c-c4ea-11e7-8d40-066b49664af6_cm_800w.png?v=16" 
          alt="Netflix Logo"
          />    
 
